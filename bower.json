@@ -1,0 +1,26 @@
+{
+  "name": "jmanuelmc",
+  "homepage": "http://jmanuelmtz.github.io",
+  "authors": [
+    "JManuelMc <j-manuel_mtz23@hotmail.com>"
+  ],
+  "description": "JManuelMc Page Official",
+  "main": "",
+  "keywords": [
+    "JManuelMc",
+    "Page"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3",
+    "animate.css": "^3.5.2"
+  }
+}

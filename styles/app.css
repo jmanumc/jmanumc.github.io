@@ -1,0 +1,67 @@
+/*
+	white -> #ECF0F1
+	green -> #00A388
+*/
+
+body {
+	font-family: 'Raleway', sans-serif;
+	background-size: cover;
+	background-color: #00A388;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.content {
+	margin-top: 10rem;
+	padding-top: 2rem;
+	border-radius: 0.5rem;
+	padding-bottom: 2rem;
+	background-color: rgba(255,255,255,0.9);
+}
+
+header .avatar {
+	width: 150px;
+	height: 150px;
+	opacity: 0.9;
+	border-radius: 50%;
+	background-size: cover;
+	background-color: #00A388;
+	background-position: center;
+}
+
+main h1 {
+	color: #00A388;
+}
+
+section .social a {
+	opacity: 0.5;
+	-webkit-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+
+section .social a:hover,
+section .social a:focus,
+section .social a:active {
+	color: #00A388;
+	opacity: 1;
+}
+
+footer {
+	color: white;
+	width: 100%;
+	bottom: 0;
+	position: absolute;
+}
+
+.s2 {
+	-webkit-animation-duration: 2s;
+	-o-animation-duration: 2s;
+	animation-duration: 2s;
+}
+
+.s3 {
+	-webkit-animation-duration: 3s;
+	-o-animation-duration: 3s;
+	animation-duration: 3s;
+}
